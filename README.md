@@ -1,2 +1,3 @@
-# bgc2021
-fashionably late
+# fashionably late
+Black Girls Code Team 12 Submission
+
